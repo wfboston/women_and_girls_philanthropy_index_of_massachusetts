@@ -87,7 +87,7 @@ def get_download_links():
 
 def download_raw_data(year: int, force=False):
     """Download excel files from the IRS website corresponding to the year and convert to CSV
-    Example of exported file: `script_dir/2021/Form 990 Extract (2021).csv`
+    Example of exported file: `input_files/2021/Form 990 Extract (2021).csv`
 
     Raises RuntimeError if something went wrong
     Raises ValueError if year is not available to download
@@ -161,7 +161,14 @@ def get_org(org_id):
 
 def get_gba_orgs():
     """
-    Get orgs from the Greater Boston Area
+    using data from Indiana Women and Girls Index API
+    Get orgs from the Greater Boston Area 
+    If a file is found use that to determine revenue
+    otherwise call api, clean data and save it as a csv
+
+    negative revenue values are counted as 0
+    return int wg_revenue
+
     """
     # greater_boston_zipcodes
     orgs = requests.get(ORG_LIST_URL).json()['data']
