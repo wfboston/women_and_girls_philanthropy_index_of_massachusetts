@@ -68,10 +68,9 @@ def get_download_links():
     soup = BeautifulSoup(r.text, 'html.parser')
     # get all <h2> that appear before tables
     #pint(soup)
-    h2s = filter(
-        lambda tag: tag.text.startswith(
-            'Exempt Organization Returns Filed in Calendar Year'),
-        soup.find_all('h2'))
+    h2s = h2s = soup.find_all('h2', 
+                              string=re.compile('^Exempt Organization '
+                             'Returns Filed in Calendar Year', re.IGNORECASE))
     download_links = {}
     for h2 in h2s:
         year = int(re.search(r'\d+', h2.text).group(0))
