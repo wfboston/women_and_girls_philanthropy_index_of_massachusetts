@@ -1,4 +1,33 @@
+# About Index 
+
+The purpose of this index is to track how donations to Women and Girls non-profits in Massachusetts compare with 
+donations to all non-profits in Massachutts.
+
+### Data Sources
+<details> 
+<summary><h2>IRS</h2></summary>
+    <details>
+        <summary>Massachusetts Nonprofits</summary>
+        <p>List of Organizations which are headquartered in Massachusetts
+        <url>https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf</url>
+        </p>
+    </details>
+    <details>
+    <summary>Annual IRS Tax Documents</summary>
+        <p>Excel Files for Non-Profits 
+         <url a=https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data>IRS website</url>
+        </p>   
+    </details>
+</details>
+
+# Generating Index
 # Tax-Exempt Organizations Financial Data Parsing
+
+<details> 
+<summary> Tax Exempt Organizations</summary>
+
+
+</details>
 
 ## Usage
 
