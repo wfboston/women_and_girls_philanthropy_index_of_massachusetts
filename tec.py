@@ -420,8 +420,8 @@ if __name__ == '__main__':
         print(f'Processing data to generate MA Orgs, Great Boston Orgs and W&G Orgs in Great Boston for year {year}')
        
         ma_orgs_file=get_ma_orgs_list()
-        file_990_extract_name = f'Form 990 Extract ({year}).csv'
-        file_990_ez_name = f'Form 990-EZ Extract ({year}).csv'
+        file_990_extract_name = f'Form 990 Extract XLSX ({year}).csv'
+        file_990_ez_name = f'Form 990-EZ Extract XLSX ({year}).csv'
         irs_990_extract_file = input_folder_path / str(year) /file_990_extract_name
         irs_990_ez_file = input_folder_path / str(year) /file_990_ez_name
         greater_boston_orgs_file = Path(os.path.join(current_directory, 'output_files/greater_boston_orgs.csv')) 
