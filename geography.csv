@@ -1,0 +1,352 @@
+,Town,Region
+0,Abington,"Southeast, Cape & Islands"
+1,Acton,Metro West
+2,Acushnet,"Southeast, Cape & Islands"
+3,Adams,Western
+4,Agawam,Western
+5,Alford,Western
+6,Amesbury,Northeast
+7,Amherst,Western
+8,Andover,Northeast
+9,Aquinnah,"Southeast, Cape & Islands"
+10,Arlington,Metro West
+11,Ashburnham,Central MA
+12,Ashby,Central MA
+13,Ashfield,Western
+14,Ashland,Metro West
+15,Athol,Western
+16,Attleboro,"Southeast, Cape & Islands"
+17,Auburn,Central MA
+18,Avon,"Southeast, Cape & Islands"
+19,Ayer,Central MA
+20,Barnstable,"Southeast, Cape & Islands"
+21,Barre,Central MA
+22,Becket,Western
+23,Bedford,Metro West
+24,Belchertown,Western
+25,Bellingham,Central MA
+26,Belmont,Metro West
+27,Berkley,"Southeast, Cape & Islands"
+28,Berlin,Central MA
+29,Bernardston,Western
+30,Beverly,Northeast
+31,Billerica,Northeast
+32,Blackstone,Central MA
+33,Blandford,Western
+34,Bolton,Central MA
+35,Boston,Greater Boston
+36,Bourne,"Southeast, Cape & Islands"
+37,Boxborough,Metro West
+38,Boxford,Northeast
+39,Boylston,Central MA
+40,Braintree,Metro West
+41,Brewster,"Southeast, Cape & Islands"
+42,Bridgewater,"Southeast, Cape & Islands"
+43,Brimfield,Central MA
+44,Brockton,"Southeast, Cape & Islands"
+45,Brookfield,Central MA
+46,Brookline,Greater Boston
+47,Buckland,Western
+48,Burlington,Metro West
+49,Cambridge,Metro West
+50,Canton,"Southeast, Cape & Islands"
+51,Carlisle,Metro West
+52,Carver,"Southeast, Cape & Islands"
+53,Charlemont,Western
+54,Charlton,Central MA
+55,Chatham,"Southeast, Cape & Islands"
+56,Chelmsford,Northeast
+57,Chelsea,Greater Boston
+58,Cheshire,Western
+59,Chester,Western
+60,Chesterfield,Western
+61,Chicopee,Western
+62,Chilmark,"Southeast, Cape & Islands"
+63,Clarksburg,Western
+64,Clinton,Central MA
+65,Cohasset,Metro West
+66,Colrain,Western
+67,Concord,Metro West
+68,Conway,Western
+69,Cummington,Western
+70,Dalton,Western
+71,Danvers,Northeast
+72,Dartmouth,"Southeast, Cape & Islands"
+73,Dedham,Metro West
+74,Deerfield,Western
+75,Dennis,"Southeast, Cape & Islands"
+76,Dighton,"Southeast, Cape & Islands"
+77,Douglas,Central MA
+78,Dover,Metro West
+79,Dracut,Northeast
+80,Dudley,Central MA
+81,Dunstable,Northeast
+82,Duxbury,"Southeast, Cape & Islands"
+83,Bridgewater,"Southeast, Cape & Islands East"
+84,Brookfield,Central MA East
+85,Longmeadow,Western East
+86,Eastham,"Southeast, Cape & Islands"
+87,Easthampton,Western
+88,Easton,"Southeast, Cape & Islands"
+89,Edgartown,"Southeast, Cape & Islands"
+90,Egremont,Western
+91,Erving,Western
+92,Essex,Northeast
+93,Everett,Northeast
+94,Fairhaven,"Southeast, Cape & Islands"
+95,River,"Southeast, Cape & Islands Fall"
+96,Falmouth,"Southeast, Cape & Islands"
+97,Fitchburg,Central MA
+98,Florida,Western
+99,Foxborough,Metro West
+100,Framingham,Metro West
+101,Franklin,Central MA
+102,Freetown,"Southeast, Cape & Islands"
+103,Gardner,Central MA
+104,Georgetown,Northeast
+105,Gill,Western
+106,Gloucester,Northeast
+107,Goshen,Western
+108,Gosnold,"Southeast, Cape & Islands"
+109,Grafton,Central MA
+110,Granby,Western
+111,Granville,Western
+112,Barrington,Western Great
+113,Greenfield,Western
+114,Groton,Central MA
+115,Groveland,Northeast
+116,Hadley,Western
+117,Halifax,"Southeast, Cape & Islands"
+118,Hamilton,Northeast
+119,Hampden,Western
+120,Hancock,Western
+121,Hanover,"Southeast, Cape & Islands"
+122,Hanson,"Southeast, Cape & Islands"
+123,Hardwick,Central MA
+124,Harvard,Central MA
+125,Harwich,"Southeast, Cape & Islands"
+126,Hatfield,Western
+127,Haverhill,Northeast
+128,Hawley,Western
+129,Heath,Western
+130,Hingham,"Southeast, Cape & Islands"
+131,Hinsdale,Western
+132,Holbrook,"Southeast, Cape & Islands"
+133,Holden,Central MA
+134,Holland,Central MA
+135,Holliston,Metro West
+136,Holyoke,Western
+137,Hopedale,Central MA
+138,Hopkinton,Metro West
+139,Hubbardston,Central MA
+140,Hudson,Metro West
+141,Hull,Metro West
+142,Huntington,Western
+143,Ipswich,Northeast
+144,Kingston,"Southeast, Cape & Islands"
+145,Lakeville,"Southeast, Cape & Islands"
+146,Lancaster,Central MA
+147,Lanesborough,Western
+148,Lawrence,Northeast
+149,Lee,Western
+150,Leicester,Central MA
+151,Lenox,Western
+152,Leominster,Central MA
+153,Leverett,Western
+154,Lexington,Metro West
+155,Leyden,Western
+156,Lincoln,Metro West
+157,Littleton,Metro West
+158,Longmeadow,Western
+159,Lowell,Northeast
+160,Ludlow,Western
+161,Lunenburg,Central MA
+162,Lynn,Northeast
+163,Lynnfield,Northeast
+164,Malden,Northeast
+165,Sea,Northeast
+166,Mansfield,"Southeast, Cape & Islands"
+167,Marblehead,Northeast
+168,Marion,"Southeast, Cape & Islands"
+169,Marlborough,Metro West
+170,Marshfield,"Southeast, Cape & Islands"
+171,Mashpee,"Southeast, Cape & Islands"
+172,Mattapoisett,"Southeast, Cape & Islands"
+173,Maynard,Metro West
+174,Medfield,Metro West
+175,Medford,Northeast
+176,Medway,Central MA
+177,Melrose,Northeast
+178,Mendon,Central MA
+179,Merrimac,Northeast
+180,Methuen,Northeast
+181,Middleborough,"Southeast, Cape & Islands"
+182,Middlefield,Western
+183,Middleton,Northeast
+184,Milford,Central MA
+185,Millbury,Central MA
+186,Millis,Metro West
+187,Millville,Central MA
+188,Milton,Metro West
+189,Monroe,Western
+190,Monson,Western
+191,Montague,Western
+192,Monterey,Western
+193,Montgomery,Western
+194,Washington,Western Mount
+195,Nahant,Northeast
+196,Nantucket,"Southeast, Cape & Islands"
+197,Natick,Metro West
+198,Needham,Metro West
+199,Ashford,Western New
+200,Bedford,"Southeast, Cape & Islands New"
+201,Braintree,Central MA New
+202,Marlborough,Western New
+203,Salem,Western New
+204,Newbury,Northeast
+205,Newburyport,Northeast
+206,Newton,Metro West
+207,Norfolk,Metro West
+208,Adams,Western North
+209,Andover,Northeast North
+210,Attleborough,"Southeast, Cape & Islands North"
+211,Brookfield,Central MA North
+212,Reading,Northeast North
+213,Northampton,Western
+214,Northborough,Metro West
+215,Northbridge,Central MA
+216,Northfield,Western
+217,Norton,"Southeast, Cape & Islands"
+218,Norwell,"Southeast, Cape & Islands"
+219,Norwood,"Southeast, Cape & Islands"
+220,Bluffs,"Southeast, Cape & Islands Oak"
+221,Oakham,Central MA
+222,Orange,Western
+223,Orleans,"Southeast, Cape & Islands"
+224,Otis,Western
+225,Oxford,Central MA
+226,Palmer,Western
+227,Paxton,Central MA
+228,Peabody,Northeast
+229,Pelham,Western
+230,Pembroke,"Southeast, Cape & Islands"
+231,Pepperell,Central MA
+232,Peru,Western
+233,Petersham,Western
+234,Phillipston,Western
+235,Pittsfield,Western
+236,Plainfield,Western
+237,Plainville,Metro West
+238,Plymouth,"Southeast, Cape & Islands"
+239,Plympton,"Southeast, Cape & Islands"
+240,Princeton,Central MA
+241,Provincetown,"Southeast, Cape & Islands"
+242,Quincy,Metro West
+243,Randolph,Metro West
+244,Raynham,"Southeast, Cape & Islands"
+245,Reading,Northeast
+246,Rehoboth,"Southeast, Cape & Islands"
+247,Revere,Greater Boston
+248,Richmond,Western
+249,Rochester,"Southeast, Cape & Islands"
+250,Rockland,"Southeast, Cape & Islands"
+251,Rockport,Northeast
+252,Rowe,Western
+253,Rowley,Northeast
+254,Royalston,Western
+255,Russell,Western
+256,Rutland,Central MA
+257,Salem,Northeast
+258,Salisbury,Northeast
+259,Sandisfield,Western
+260,Sandwich,"Southeast, Cape & Islands"
+261,Saugus,Northeast
+262,Savoy,Western
+263,Scituate,"Southeast, Cape & Islands"
+264,Seekonk,"Southeast, Cape & Islands"
+265,Sharon,"Southeast, Cape & Islands"
+266,Sheffield,Western
+267,Falls,Western Shelburne
+268,Sherborn,Metro West
+269,Shirley,Central MA
+270,Shrewsbury,Central MA
+271,Shutesbury,Western
+272,Somerset,"Southeast, Cape & Islands"
+273,Somerville,Metro West
+274,Hadley,Western South
+275,Southampton,Western
+276,Southborough,Metro West
+277,Southbridge,Central MA
+278,Southwick,Western
+279,Spencer,Central MA
+280,Springfield,Western
+281,Sterling,Central MA
+282,Stockbridge,Western
+283,Stoneham,Northeast
+284,Stoughton,"Southeast, Cape & Islands"
+285,Stow,Metro West
+286,Sturbridge,Central MA
+287,Sudbury,Metro West
+288,Sunderland,Western
+289,Sutton,Central MA
+290,Swampscott,Northeast
+291,Swansea,"Southeast, Cape & Islands"
+292,Taunton,"Southeast, Cape & Islands"
+293,Templeton,Central MA
+294,Tewksbury,Northeast
+295,Tisbury,"Southeast, Cape & Islands"
+296,Tolland,Western
+297,Topsfield,Northeast
+298,Townsend,Central MA
+299,Truro,"Southeast, Cape & Islands"
+300,Tyngsborough,Northeast
+301,Tyringham,Western
+302,Upton,Central MA
+303,Uxbridge,Central MA
+304,Wakefield,Northeast
+305,Wales,Central MA
+306,Walpole,Metro West
+307,Waltham,Metro West
+308,Ware,Western
+309,Wareham,"Southeast, Cape & Islands"
+310,Warren,Central MA
+311,Warwick,Western
+312,Washington,Western
+313,Watertown,Metro West
+314,Wayland,Metro West
+315,Webster,Central MA
+316,Wellesley,Metro West
+317,Wellfleet,"Southeast, Cape & Islands"
+318,Wendell,Western
+319,Wenham,Northeast
+320,Boylston,Central MA West
+321,Bridgewater,"Southeast, Cape & Islands West"
+322,Brookfield,Central MA West
+323,Newbury,Northeast West
+324,Springfield,Western West
+325,Stockbridge,Western West
+326,Tisbury,"Southeast, Cape & Islands West"
+327,Westborough,Metro West
+328,Westfield,Western
+329,Westford,Northeast
+330,Westhampton,Western
+331,Westminster,Central MA
+332,Weston,Metro West
+333,Westport,"Southeast, Cape & Islands"
+334,Westwood,Metro West
+335,Weymouth,Metro West
+336,Whately,Western
+337,Whitman,"Southeast, Cape & Islands"
+338,Wilbraham,Western
+339,Williamsburg,Western
+340,Williamstown,Western
+341,Wilmington,Metro West
+342,Winchendon,Central MA
+343,Winchester,Metro West
+344,Windsor,Western
+345,Winthrop,Greater Boston
+346,Woburn,Metro West
+347,Worcester,Central MA
+348,Worthington,Western
+349,Wrentham,Metro West
+350,Yarmouth,"Southeast, Cape & Islands"
